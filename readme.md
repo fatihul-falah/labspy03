@@ -12,10 +12,10 @@
 
 **program**
 
-# ![]()
+# ![latihan1](https://github.com/fatihul-falah/labspy03/blob/master/latihan1.PNG)
 **hasil program latihan 1**
 
-# ![]()
+# ![hasil](https://github.com/fatihul-falah/labspy03/blob/master/hasillatihan1.PNG)
 
 # PROGRAM LATIHAN 2
 
@@ -33,11 +33,11 @@
 
 **program**
 
-# ![]()
+# ![latihan2](https://github.com/fatihul-falah/labspy03/blob/master/latihan2.PNG)
 
 **hasil program latihan 2**
 
-# ![]()
+# ![hasil2](https://github.com/fatihul-falah/labspy03/blob/master/hasillatihan2.PNG)
 
 # penjelasan program 1
 
@@ -60,9 +60,9 @@ mendapatkan laba sebesar 1% dan pada bulan kelima, pendapatan meningkat 5%, sela
 * menampilkan total laba
 * selesai
 
-# ![]()
+# ![program](https://github.com/fatihul-falah/labspy03/blob/master/program1.PNG)
 
 **hasil program 1**
 
-# ![]()
+# ![hasil3](https://github.com/fatihul-falah/labspy03/blob/master/hasilprogram1.PNG)
 
